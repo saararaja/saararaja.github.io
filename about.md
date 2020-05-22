@@ -24,4 +24,4 @@ Hello! My name is Saara Raja.  I am a *student*, *Data Science professional*, *c
 
 ### Contact me
 
-[email@domain.com](mailto:saararaja1@gmail.com)
+[saararaja1@gmail.com](mailto:saararaja1@gmail.com)
