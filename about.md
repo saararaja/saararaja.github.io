@@ -18,9 +18,9 @@ Hello! My name is Saara Raja.  I am a *student*, *Data Science professional*, *c
 * Study trends in customer complaints by analyzing text data  
   + Emails, chat messages, and phone calls (transcriptions)  
   
-**MS Statistics** - NC State University - *In Progress*
-**MS Neuroscience** - University of Texas at Dallas - 2017
-**BS Neuroscience** - University of Texas at Dallas - 2016
+**MS Statistics** - NC State University - *In Progress*  
+**MS Neuroscience** - University of Texas at Dallas - 2017  
+**BS Neuroscience** - University of Texas at Dallas - 2016  
 
 ### Contact me
 
