@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Reflection on Data Science
+title: Reflections on R
 ---
 
 Testing Testing Testing
